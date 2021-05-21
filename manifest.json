@@ -1,0 +1,53 @@
+{
+	"manifest_version": 2,
+	"name": "Nord Dark",
+	"description": "Inofficial Nord theme for Thunderbird",
+	"version": "1.0",
+	"applications": {
+		"gecko": {
+			"id":"nord-dark@yannic-hock.themes.thunderbird.net"
+		}
+	},
+	"theme": {
+		"colors": {
+			"frame": "#2E3440",
+			"tab_line": "#8FBCBB",
+			"toolbar": "#434C5E",
+			"toolbar_top_separator": "#3B4252",
+			"toolbar_vertical_separator": "#81A1C1",
+			"toolbar_bottom_separator": "#81A1C1",
+			"tab_background_separator": "#81A1C1",
+			"tab_background_text": "#D8DEE9",
+			"tab_text": "#E5E9F0",
+			"bookmark_text": "#E5E9F0",
+			"frame_inactive": "#3B4252",
+			"tab_loading": "#3B4252",
+
+			"sidebar": "#2E3440",
+			"sidebar_text": "#E5E9F0",
+			"sidebar_highlight_text": "#E5E9F0",
+			"sidebar_highlight": "#3B4252",
+			"sidebar_border": "#81A1C1",
+
+
+			"toolbar_field": "#434C5E",
+			"toolbar_field_focus": "#434C5E",
+			"toolbar_field_border": "#2E3440",
+			"toolbar_field_border_focus": "#81A1C1",
+			"toolbar_field_highlight": "#83a598",
+			"toolbar_field_highlight_text": "#ECEFF4",
+			"toolbar_field_text": "#D8DEE9",
+			"toolbar_field_text_focus": "#ECEFF4",
+
+			"popup": "#2E3440",
+			"popup_text": "#E5E9F0",
+			"popup_border": "#81A1C1",
+			"popup_highlight": "#BF616A",
+			"popup_highlight_text": "#BF616A",
+
+			"ntp_background": "#2E3440",
+			"ntp_text": "#E5E9F0"
+		}
+	}
+}
+
